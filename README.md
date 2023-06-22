@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PalakSharma29
-- 👀 I’m interested in Web Developing(Front-end & Backend
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👋 Hi, I’m Palak Sharma ( User Name :-@PalakSharma29).
+- 👀 I’m interested in Web Developing(Front-end & Backend).
+- 🌱 I’m currently learning Backend Technologies.
+- 💞️ I’m looking to collaborate with your company to embark my skills.
+- 📫 How to reach me Email - Palaksharma4112@gmail.com.
 - 
 
 <!---
