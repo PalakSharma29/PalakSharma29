@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Backend Technologies.
 - 💞️ I’m looking to collaborate with your company to embark my skills.
 - 📫 How to reach me Email - Palaksharma4112@gmail.com.
+- LinkedIn profile - https://www.linkedin.com/in/palak-sharma-3b6527235/
 - 
 
 <!---
